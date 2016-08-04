@@ -1,5 +1,5 @@
 # Enter-DC
-A table-top, turn-based strategy game I made in a team of four people from September of 2014 to December of 2014.
+A table-top, turn-based strategy game I made in a team of four people from September 2014 - December 2014.
 
 Enter DC is a board game I created with three other people for my “War Gaming” class. The game is turn-based strategy and is designed to take multiple hours to set up and play, in the guise of more traditionally grandiose war strategy simulation games. However, unlike many games in the notoriously prodigious genre, our game was designed to be simple enough to still be accessible and fun for players not accustomed to more complex war games. Our game is set in the near future (2026) when a newly militarized European Union invades the eastern coast of the United States following a second Cold War. Our game takes place during the Battle of DC, just after US forces have been surrounded in the center of Washington DC by European troops.  The EU forces must push into the downtown area and capture the fortified White House, with the Lincoln Memorial and Capital Building serving as auxiliary US strongpoints. The game ends when the European forces have captured the White House, the American forces have held the White House for ten consecutive turns, or one side has eliminated all units of the opposing force from the board.
 
